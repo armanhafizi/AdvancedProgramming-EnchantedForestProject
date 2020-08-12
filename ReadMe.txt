@@ -1,0 +1,1 @@
+Exact implementation of the Enchanted Forest board game in C++. Feel free to contact me for more information.
